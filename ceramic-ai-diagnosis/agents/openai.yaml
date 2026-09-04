@@ -1,4 +1,4 @@
 interface:
   display_name: "陶瓷 AI 介入诊断"
-  short_description: "为陶瓷工作室轻量诊断最值得优先引入 AI 的业务环节"
+  short_description: "深度剖析陶瓷业务困境并诊断全流程 AI 介入方式"
   default_prompt: "Use $ceramic-ai-diagnosis to diagnose where AI should first enter my ceramic business."
